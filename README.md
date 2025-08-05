@@ -1,3 +1,3 @@
-This is a full-stack Task Tracker web application developed using React for the frontend and Node.js with Express and MongoDB for the backend. The app allows users to add tasks with a title, description, start date, and deadline. Users can also edit, delete, and mark tasks as complete or incomplete. It includes filtering options to view all tasks, only completed tasks, or only incomplete ones. The application features a welcoming home page with navigation and uses REST APIs to connect the frontend and backend.
+The frontend of the Task Tracker is built using React.js and React Router for seamless navigation. It includes pages and components to add, edit, delete, and filter tasks by status (completed or incomplete). The UI is responsive and interacts with the backend via fetch to perform CRUD operations using RESTful APIs.
 
-The project was built as part of a Full Stack Development training and showcases practical skills in building, managing, and deploying real-world web applications. Future improvements may include user authentication, priority labels, notifications, and a dark mode toggle.
+
